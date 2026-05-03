@@ -1,1 +1,1 @@
-# claude-minecraft-cli
+# Claude Minecraft CLI Mod
